@@ -1,0 +1,19 @@
+D:\Documents\БББО-06-19\ИТ\Practic_9\obj\Debug\Practic_9.csprojAssemblyReference.cache
+D:\Documents\БББО-06-19\ИТ\Practic_9\obj\Debug\Practic_9.Form1.resources
+D:\Documents\БББО-06-19\ИТ\Practic_9\obj\Debug\Practic_9.Properties.Resources.resources
+D:\Documents\БББО-06-19\ИТ\Practic_9\obj\Debug\Practic_9.csproj.GenerateResource.cache
+D:\Documents\БББО-06-19\ИТ\Practic_9\bin\Debug\Practic_9.exe.config
+D:\Documents\БББО-06-19\ИТ\Practic_9\bin\Debug\Practic_9.exe
+D:\Documents\БББО-06-19\ИТ\Practic_9\bin\Debug\Practic_9.pdb
+D:\Documents\БББО-06-19\ИТ\Practic_9\obj\Debug\Practic_9.exe
+D:\Documents\БББО-06-19\ИТ\Practic_9\obj\Debug\Practic_9.pdb
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\bin\Debug\Practic_9.exe.config
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\bin\Debug\Practic_9.exe
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\bin\Debug\Practic_9.pdb
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\obj\Debug\Practic_9.csprojAssemblyReference.cache
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\obj\Debug\Practic_9.Form1.resources
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\obj\Debug\Practic_9.Properties.Resources.resources
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\obj\Debug\Practic_9.csproj.GenerateResource.cache
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\obj\Debug\Practic_9.csproj.CoreCompileInputs.cache
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\obj\Debug\Practic_9.exe
+C:\Users\1255970\Desktop\МИРЭА\2 КУРС\IT\Practica9\obj\Debug\Practic_9.pdb
