@@ -1,0 +1,9 @@
+D:\Documents\БББО-06-19\P10\bin\Debug\P10.exe.config
+D:\Documents\БББО-06-19\P10\bin\Debug\P10.exe
+D:\Documents\БББО-06-19\P10\bin\Debug\P10.pdb
+D:\Documents\БББО-06-19\P10\obj\Debug\P10.csprojAssemblyReference.cache
+D:\Documents\БББО-06-19\P10\obj\Debug\P10.Form1.resources
+D:\Documents\БББО-06-19\P10\obj\Debug\P10.Properties.Resources.resources
+D:\Documents\БББО-06-19\P10\obj\Debug\P10.csproj.GenerateResource.cache
+D:\Documents\БББО-06-19\P10\obj\Debug\P10.exe
+D:\Documents\БББО-06-19\P10\obj\Debug\P10.pdb
