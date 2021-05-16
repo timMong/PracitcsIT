@@ -1,0 +1,87 @@
+--create database shop
+--use shop
+--create table Shop(
+--Sname_ID int primary key not null,
+--SName text,
+--SAdress text,
+--SPhone text,
+--SBoss_Name text,
+--SID_Postavshik int
+--)
+--create table Postavshik(
+--PID_Postavshik int primary key not null,
+--PName text,
+--PPhone text,
+--PBoss_Name text,
+--PID_Product int
+--)
+--create table Products(
+--PrID_Products int primary key not null,
+--PrName text,
+--Num text,
+--Price int,
+--ID_BJU int,
+--ID_Country int
+--)
+--create table BJU(
+--ID_BJU int primary key not null,
+--Protein text,
+--Fat text,
+--Carbohudrates text
+--)
+--create table Country(
+--ID_Country int primary key not null,
+--Country text,
+--City text,
+--Street text
+--)
+--\\\\\\
+--create database Practica12
+--use Practica12
+--create table Shop(
+--Sname_ID int primary key not null,
+--SName text,
+--SAdress text,
+--SPhone text,
+--SBoss_Name text,
+--SID_Postavshik int
+--)
+--\\\\\\
+--insert into dbo.Postavshik
+--values (1, 'OOO Yandex', '8-976-454-4534', 'Ivanon Ivan Ivanovich', 11111)
+--\\\\\\\
+--select * from dbo.Postavshik
+--\\\\\\\
+--insert into dbo.Postavshik(PID_Postavshik, PName)
+--values (2, 'OOO Delivery')
+--select * from dbo.Postavshik
+--\\\\\\
+--insert into dbo.Country
+--values (1, 'Russia', 'Moscow', 'Pushkina 22')
+--insert into dbo.Country
+--values (2, 'Russia', 'Barnaul', 'Lenina 1a')
+--insert into dbo.Country
+--values (3, 'USA', 'Florida', 'Freedom 87')
+--select * from dbo.Country
+--\\\\\\
+--insert into dbo.Products
+--values (1, 'Banana', '10 kg', 10, 123, 324)
+--insert into dbo.Products
+--values (2, 'Apple', '535 kg', 150, 432, 32)
+--insert into dbo.Products
+--values (3, 'Cake', '564 things', 600, 1, 21)
+--select * from dbo.Products
+--\\\\\\\\\
+--insert into dbo.BJU
+--values (1, '20', '10','30' )
+--insert into dbo.BJU
+--values (2,  '200', '120','370')
+--insert into dbo.BJU
+--values (3, '2220', '101','0')
+--select * from dbo.BJU
+--\\\\\\\\\
+insert into dbo.Shop
+values (111, 'Pyaterochka', 'Kremlin','8-800-555-3535', 'Stepanov A.V.',42 )
+insert into dbo.Shop
+values (222,  'Stolovka MIREA', 'Preobrajenka','+0-00-00-0000', 'Kudj A.D.', 234)
+select * from dbo.Shop
